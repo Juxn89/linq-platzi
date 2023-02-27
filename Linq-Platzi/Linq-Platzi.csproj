@@ -9,4 +9,8 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="books.json" />
+  </ItemGroup>
+
 </Project>
